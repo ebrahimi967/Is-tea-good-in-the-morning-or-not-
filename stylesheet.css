@@ -1,0 +1,65 @@
+body{
+      background-color:#f6d4fc ;
+           }
+      h1{
+            text-align: center;
+            margin: top 10px;%;
+            padding:15px;
+            background-color: aliceblue;
+            border-width:25px;
+            border-color:rgb(235, 139, 184);
+            border-style: outset;
+            }
+      .information{
+            text-align: center;
+            margin-top:5%;
+            padding: 5px;
+            background-color: aliceblue;
+            border-width: 15px;
+            border-color: rgb(235, 139, 184);
+            border-style: outset;
+      }  
+ .information1{
+      background-color:rgb(241, 189, 213) ;
+      text-align: center;
+      margin: top 5%;
+      margin: bottom 5px;
+      padding: 2px;
+      background-color: aliceblue;
+      border-width: 10px;
+      border-color: rgb(206, 127, 164);
+      border-style: outset;
+      font-style: oblique;
+      font-size: large;  
+  }
+   
+   .order{
+      background-color:rgb(241, 189, 213) ;
+      text-align: center;
+      margin: top 5%;
+      margin: bottom 5px;
+      padding: 2px;
+      background-color: aliceblue;
+      border-width: 10px;
+      border-color: rgb(206, 127, 164);
+      border-style: outset;
+      font-style: oblique;
+      font-size: large;
+   }
+
+   video{
+      width: 100%;
+      height: auto;
+      display:block;
+      margin: auto;
+      margin:0 auto ;
+        }
+
+
+    
+
+
+
+    
+    
+    
